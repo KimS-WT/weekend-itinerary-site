@@ -1,6 +1,6 @@
 # Weekend Itinerary Site
 
-Simple three-page travel concept to showcase clean HTML/CSS/JS, responsive layouts, and a pinch of interactivity. Perfect for highlighting front-end fundamentals in a new-grad portfolio.
+Simple three-page travel concept to showcase clean HTML/CSS/JS, responsive layouts, and a pinch of interactivity. Some of this project was made using AI assistance.
 
 ## Pages
 - **Home (`index.html`)** – Hero pitch plus feature cards explaining the WanderLite concept.
