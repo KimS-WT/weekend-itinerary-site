@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WanderLite Travel | Contact</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body data-page="contact">
+    <header class="site-header">
+        <div class="container">
+            <h1 class="logo">WanderLite Travel</h1>
+            <nav class="site-nav">
+                <a href="index.html">Home</a>
+                <a href="destinations.html">Destinations</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </div>
+    </header>
+    <main class="container contact-layout">
+        <section>
+            <p class="eyebrow">Say hi</p>
+            <h2>Tell us where you want to wander next.</h2>
+            <p>Share what kind of trip you crave and we will send back a light-pack itinerary in 48 hours.</p>
+            <ul class="contact-list">
+                <li><strong>Email:</strong> hello@wanderlite.travel</li>
+                <li><strong>Phone:</strong> +1 (555) 123-4567</li>
+                <li><strong>Office:</strong> 42 Sunset Ave, Portland, OR</li>
+            </ul>
+        </section>
+        <form class="contact-form">
+            <label>
+                Name
+                <input type="text" name="name" placeholder="Alex Explorer" required>
+            </label>
+            <label>
+                Email
+                <input type="email" name="email" placeholder="you@email.com" required>
+            </label>
+            <label>
+                Dream destination
+                <input type="text" name="destination" placeholder="Kyoto in spring?">
+            </label>
+            <label>
+                Trip vibe
+                <select name="vibe">
+                    <option>Slow &amp; scenic</option>
+                    <option>Food-focused</option>
+                    <option>High energy</option>
+                </select>
+            </label>
+            <label>
+                Notes
+                <textarea name="notes" rows="4" placeholder="Anything we should know?"></textarea>
+            </label>
+            <button type="submit" class="cta">Send request</button>
+        </form>
+    </main>
+    <footer class="site-footer">
+        <p>&copy; <span data-year></span> WanderLite Travel</p>
+    </footer>
+</body>
+</html>
