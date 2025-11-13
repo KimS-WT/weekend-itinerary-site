@@ -18,6 +18,7 @@ Simple three-page travel concept to showcase clean HTML/CSS/JS, responsive layou
 2. Open `index.html` in your browser (double-click or drag into a window).
 3. Optional: run a live-reload server (e.g., VS Code **Live Server** extension) for faster iteration.
 
-## Portfolio Notes
-- Keep screenshots or a short Loom demo handy for applications.
-- Mention the project in your resume with bullet points like “Built a responsive three-page travel micro-site using semantic HTML, modern CSS, and vanilla JS.”
+## Screenshots
+![Home page preview](assets/screenshots/home.png)
+![Destinations page preview](assets/screenshots/destinations.png)
+![Contact page preview](assets/screenshots/contact.png)
